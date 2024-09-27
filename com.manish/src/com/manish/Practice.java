@@ -6,17 +6,17 @@ public class Practice {
     public static void main (String [] args){
         System.out.println("Hello World");
         RecentlyPlayedStore rp = new RecentlyPlayedStore(5);
-        rp.addSong("Akriti", "Befawfa hai");
+        rp.addSong("Akriti", "har karam apna karenge");
 
-        rp.addSong("manish", "jab lagawelu tu lipstick");
-        rp.addSong("Avinash", "kitni haseen hogi");
+        rp.addSong("manish", "dil diya hai jaan bi denge");
+        rp.addSong("Avinash", "eh vatan tere liya");
         rp.addSong("manish", "Har har mahadev");
-        rp.addSong("Akriti", "zindgi badal di");
+        rp.addSong("Akriti", "Namo namo re Shankara");
 
-        rp.addSong("Akriti", "ham tumhare hai sanam");
-        // rp.addSong("Akriti", "Befawfa hai");
-        rp.addSong("Akriti", "kudgraj");
-        rp.addSong("Akriti", "ram ji ki kripa");
+        rp.addSong("Akriti", "Bholenath Shankara");
+        // rp.addSong("Akriti", "Rudra dev Maheshwara");
+        rp.addSong("Akriti", "Shristi ke jaman se hi");
+        rp.addSong("Akriti", "pehle theri vaastha, eh jag rahe eh naa rahe");
         rp.addSong("Akriti", "hare krishna");
 
         
