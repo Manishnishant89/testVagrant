@@ -16,7 +16,7 @@ public class Practice {
         rp.addSong("Akriti", "Bholenath Shankara");
         // rp.addSong("Akriti", "Rudra dev Maheshwara");
         rp.addSong("Akriti", "Shristi ke jaman se hi");
-        rp.addSong("Akriti", "pehle theri vaastha, eh jag rahe eh naa rahe");
+        rp.addSong("Akriti", "pehle thera vaastha, eh jag rahe eh naa rahe, rahegi thera vaastha");
         rp.addSong("Akriti", "hare krishna");
 
         
